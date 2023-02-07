@@ -1,2 +1,5 @@
 git .gitignore //komutu bir tür dosyası oluştururlur
 gitnore dosyanın içine yazılan dosya isimleri gizli olur
+
+ekleme yapıldı
+dfdsfsg
