@@ -1,0 +1,3 @@
+barch = projenin bir dalı
+gene yazım kuralı
+git branch feature(ismi feature olmak zorunlada değil projenin ilgili dalınana göre ismlendirir)
