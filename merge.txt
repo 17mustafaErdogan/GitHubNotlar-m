@@ -2,4 +2,4 @@ projenin iki dalını birleştir. Bulunduğu dal (branch/master) ile birleştirm
 
 Kullanımı
 
-git merge feature
+git merge feature -m" feature ve master birleştirildi"
