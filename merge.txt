@@ -1,0 +1,5 @@
+projenin iki dalını birleştir. Bulunduğu dal (branch/master) ile birleştirme istediği dal birleştirilir.
+
+Kullanımı
+
+git merge feature
