@@ -1,0 +1,3 @@
+örneğin branch ile dallandı ve geri projenin ana gövdesine dönmek istityon
+
+git switch master //şeklinde
