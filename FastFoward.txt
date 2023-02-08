@@ -1,0 +1,3 @@
+örneğin
+
+proje o ana kadar sağlam gelmiş olsun ve ondan sonra yeni bir özellik eklenecek olsun. ama bu özelliğin çalışıp çalışmayacağını bilemiyoruz. bu yüzden yeni bir dal açıp işlemlerimizi orada yapmak istiyoruz, işin sonunda çalıştığı gözlelemiştir. bu dalıda projenin ana gövdesine bağlanılır
