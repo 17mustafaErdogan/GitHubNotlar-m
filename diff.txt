@@ -1,3 +1,7 @@
 git diff 
 
 bir doyada veya "git diff HEAD" Head'da yapılan değişiklikleri gözterir.
+
+
+
+
