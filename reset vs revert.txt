@@ -1,0 +1,9 @@
+git reset "comit ID nosu"
+sadece verilen comit numaralarını siler
+
+git resert hard "commit ID nosu"
+comit dahil yapılan bütün değişiklikleri siler.
+
+REVERT
+
+geri dönüldüğünde ve hem aynı masterdan devam edecen hemde o öndeki commitler silinmeyecek durumlarda kullanılır
