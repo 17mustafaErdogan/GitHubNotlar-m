@@ -3,4 +3,11 @@ rebase
 
 yeni dal açıp projenin orasından ilerleniyor (commitler atılıyor) ve bu arada birileri projenin ana bloğunuda bir kaç commit geldğini varsayalım. bizde o yeni commitleri kendi projemizin dalında merge edederiz ne kadar edersek okardar fazla commit edilmiş olur.
 
-bu fazlalıkları 
+bu fazlalıkları (commitleri) yok etmek için rebase kullanılır
+
+Burada commitlerin tarihlerin değişir.
+
+
+KULLANILMAMASI GÖREKEN DURUMLARIN
+
+projeden oluşturduğumuz dalı (branch) başka birileride katkı yapamaya başladığında rebase yapıldığında diğerler katkı yapan kişilerin projelerini darmadağın edebilir.
