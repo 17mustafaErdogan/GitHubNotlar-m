@@ -1,11 +1,25 @@
-stash/pub
+stash/pop
 senaryo:
 diyelim feature dalındayız ve commit lemeden mastera döndük git switch master ile
 
 bu durumda git stash komutu ile feature daki  o ana kadar yapılan değişiklikleri saklar
 
-o işi bitirip dosyasya dönülğünde git pub komutu girildiğinde o tutulan veri geri gelir. 
+o işi bitirip dosyasya dönülğünde git stash pop komutu girildiğinde o tutulan veri geri gelir. 
 
 yani binevi git stash =Ctrl +C
-			gşt pob = Cttl + V
+			gşt stash pop = Cttl + V
+
+
+tabi durmunun kopyala yapıştırda avantaji, birden fazla durumu stash yapılabilir.
+
+git stash list denildiğinde bu durumlar listelenir
+
+listede birini eklemek için
+
+git stash applay stash@{0} listenin 1. stach  elemanını uyglar /getirir
+
+
+			git stash pop = git satash applay
+			git satsh applayın farkı, listedeki satah@{0} elemanını istersen başkabiryedede kullanılabilir
+
 

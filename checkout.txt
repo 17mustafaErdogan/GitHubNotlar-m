@@ -1,0 +1,6 @@
+checkout
+
+geçmiş bir çok komitte dönemeye yarar
+
+yazım biçimi
+git checkout "comit ID nosu yazılır"

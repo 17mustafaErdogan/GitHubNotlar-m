@@ -1,0 +1,1 @@
+Projenin main ile önce dalanın sonra git eski main değiştirmeye çalışın, sonrada bu ikisini birleştirmeye çalışınca bir conflict (çakışma) uyarısı alınır
