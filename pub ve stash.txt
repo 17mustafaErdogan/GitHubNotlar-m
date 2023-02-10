@@ -1,0 +1,11 @@
+stash/pub
+senaryo:
+diyelim feature dalındayız ve commit lemeden mastera döndük git switch master ile
+
+bu durumda git stash komutu ile feature daki  o ana kadar yapılan değişiklikleri saklar
+
+o işi bitirip dosyasya dönülğünde git pub komutu girildiğinde o tutulan veri geri gelir. 
+
+yani binevi git stash =Ctrl +C
+			gşt pob = Cttl + V
+
