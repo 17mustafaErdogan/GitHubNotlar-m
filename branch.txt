@@ -1,6 +1,6 @@
 barch = projenin bir dalı
-gene yazım kuralı
-git branch feature(ismi feature olmak zorunlada değil projenin ilgili dalınana göre ismlendirir) //dala gitmez dalı oluşturur switch komutu ile gidilir
+genel yazım kuralı
+git branch feature(ismi feature olmak zorunda değil projenin ilgili (işlevine göre ) ismlendirir) //dala gitmez dalı oluşturur switch komutu ile gidilir
 
 git branch // yazıldıgında projedeki brachler (dallar) listenir
 
