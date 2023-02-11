@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 git remote add orgin https ....... .git
 
 remote = uzaktan
@@ -15,21 +14,14 @@ git'i url ye main barnchine (dalına) yükle.
 
 
 
-Create pull request: iki branch'i birleştirmeye yarar.
-=======
-git remote add orgin https ....... .git
+Create pull request: iki branch'i birleştirmeye yarar daha doğrusu merge etmeye hazırlar.
 
-remote = uzaktan
-
-orgin bir komut değil bir isimdir. bu isime ise url atanmıştır.
-
-git ile github reposunu birbirine bağlar.
+merge'i ; Merge pull request
 
 
+git fetch: git hubdaki değişikleri yerele farklılıkları gösterir
+git pull = git fetch + git merge
 
-git push -u orgin main 
-
-git'i url ye main barnchine (dalına) yükle.
-
-
->>>>>>> 17dd1a8659d00d756a87622083dbd3b58c7d7127
+remoto branch'de switchle gidilmez, checkout la gidilir.
+örneğin "git checkout orgin/master" şeklinde
+ancak burada HEAD kopuyor,değişiklikleri değiştirilmemesi gerekir (değişiklikler saklanamaz), ya bir branch açarsın yada geri dönülmesi gerekir
