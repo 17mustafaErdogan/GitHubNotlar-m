@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git remote add orgin https ....... .git
 
 remote = uzaktan
@@ -15,3 +16,20 @@ git'i url ye main barnchine (dalına) yükle.
 
 
 Create pull request: iki branch'i birleştirmeye yarar.
+=======
+git remote add orgin https ....... .git
+
+remote = uzaktan
+
+orgin bir komut değil bir isimdir. bu isime ise url atanmıştır.
+
+git ile github reposunu birbirine bağlar.
+
+
+
+git push -u orgin main 
+
+git'i url ye main barnchine (dalına) yükle.
+
+
+>>>>>>> 17dd1a8659d00d756a87622083dbd3b58c7d7127
