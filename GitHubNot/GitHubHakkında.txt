@@ -1,0 +1,15 @@
+git remote add orgin https ....... .git
+
+remote = uzaktan
+
+orgin bir komut değil bir isimdir. bu isime ise url atanmıştır.
+
+git ile github reposunu birbirine bağlar.
+
+
+
+git push -u orgin main 
+
+git'i url ye main barnchine (dalına) yükle.
+
+
