@@ -11,3 +11,7 @@ git ile github reposunu birbirine bağlar.
 git push -u orgin main 
 
 git'i url ye main barnchine (dalına) yükle.
+
+
+
+Create pull request: iki branch'i birleştirmeye yarar.
