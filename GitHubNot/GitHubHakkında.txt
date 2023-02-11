@@ -19,7 +19,7 @@ Create pull request: iki branch'i birleştirmeye yarar daha doğrusu merge etmey
 merge'i ; Merge pull request
 
 
-git fetch: git hubdaki değişikleri yerele farklılıkları gösterir
+git fetch: git hubdaki değişikleri yerele farklılıkları alır
 git pull = git fetch + git merge
 
 remoto branch'de switchle gidilmez, checkout la gidilir.
@@ -29,3 +29,6 @@ ancak burada HEAD kopuyor,değişiklikleri değiştirilmemesi gerekir (değişik
 
  push --> yerel den GitHuba
  pull --> Github dan yerele
+
+ pull --> yereldedeki dosyaları değiştirebilir.
+ fetch --> yereldedeki dosyaları değiştirmez farklılıkları alır.
