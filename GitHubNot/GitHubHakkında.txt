@@ -12,8 +12,8 @@ git push -u orgin main
 
 git'i url ye main barnchine (dalına) yükle.
 
-
-
+Git Hubda
+pull request proje hakında isteklerde bullunuyon
 Create pull request: iki branch'i birleştirmeye yarar daha doğrusu merge etmeye hazırlar.
 
 merge'i ; Merge pull request
@@ -32,3 +32,9 @@ ancak burada HEAD kopuyor,değişiklikleri değiştirilmemesi gerekir (değişik
 
  pull --> yereldedeki dosyaları değiştirebilir.
  fetch --> yereldedeki dosyaları değiştirmez farklılıkları alır.
+
+ git clone : başka bir projeye katkıda bulmak için "git clone https..." 
+ komutunu kullanarak projeyi bilgiysara indirilir
+
+Fork ise o proje kendi Git hub profil hesabına kopyalayarak 
+ve yolları ayırarılır yani bir katkında bunulmaz
