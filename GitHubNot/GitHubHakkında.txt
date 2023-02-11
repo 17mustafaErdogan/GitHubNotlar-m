@@ -36,5 +36,11 @@ ancak burada HEAD kopuyor,değişiklikleri değiştirilmemesi gerekir (değişik
  git clone : başka bir projeye katkıda bulmak için "git clone https..." 
  komutunu kullanarak projeyi bilgiysara indirilir
 
-Fork ise o proje kendi Git hub profil hesabına kopyalayarak 
-ve yolları ayırarılır yani bir katkında bunulmaz
+Fork ise o proje kendi Git hub profil hesabına kopyalayarak bi nevi yolları ayırarılır 
+
+
+BAŞKA PROJELERE KATKINDA BULUNMA;
+1-önce proje kendi hesabına forklarnır
+2-yapılacak olan katkıyı kendi hesabına yapılır.
+3-tamamlanan katkı o projeye "pull request" yapılır
+4- karşı tarafın onayı
