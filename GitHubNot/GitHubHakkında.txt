@@ -24,4 +24,8 @@ git pull = git fetch + git merge
 
 remoto branch'de switchle gidilmez, checkout la gidilir.
 örneğin "git checkout orgin/master" şeklinde
-ancak burada HEAD kopuyor,değişiklikleri değiştirilmemesi gerekir (değişiklikler saklanamaz), ya bir branch açarsın yada geri dönülmesi gerekir
+ancak burada HEAD kopuyor,değişiklikleri değiştirilmemesi gerekir (değişiklikler saklanamaz),
+ ya bir branch açarsın yada geri dönülmesi gerekir
+
+ push --> yerel den GitHuba
+ pull --> Github dan yerele
